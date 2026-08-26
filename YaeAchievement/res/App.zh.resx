@@ -1,0 +1,180 @@
+﻿<root>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="ExportToCocogoatFail" xml:space="preserve">
+        <value>导出失败, 请联系开发者以获取帮助（CG_{0}）</value>
+    </data>
+    <data name="AllAchievement" xml:space="preserve">
+        <value>全部成就</value>
+    </data>
+    <data name="ExportChoose" xml:space="preserve">
+        <value>要导出到哪里？</value>
+    </data>
+    <data name="ExportToCocogoatSuccess" xml:space="preserve">
+        <value>在浏览器内进行下一步操作</value>
+    </data>
+    <data name="ExportToWxApp1Success" xml:space="preserve">
+        <value>在小程序导入页面输入以下代码: {0}</value>
+    </data>
+    <data name="ExportToSnapGenshinSuccess" xml:space="preserve">
+        <value>在 Snap Hutao 中进行下一步操作</value>
+    </data>
+    <data name="ExportToSnapGenshinNeedUpdate" xml:space="preserve">
+        <value>更新/安装 Snap Hutao 最新版本后重试</value>
+    </data>
+    <data name="ExportToFileSuccess" xml:space="preserve">
+        <value>成就数据已导出至 {0}</value>
+    </data>
+    <data name="ExportToXunkongSuccess" xml:space="preserve">
+        <value>在寻空中进行下一步操作</value>
+    </data>
+    <data name="ExportToXunkongNeedUpdate" xml:space="preserve">
+        <value>更新寻空至最新版本后重试</value>
+    </data>
+    <data name="StatusInvalid" xml:space="preserve">
+        <value>未知</value>
+    </data>
+    <data name="StatusFinished" xml:space="preserve">
+        <value>已完成但未领取奖励</value>
+    </data>
+    <data name="StatusUnfinished" xml:space="preserve">
+        <value>未完成</value>
+    </data>
+    <data name="StatusRewardTaken" xml:space="preserve">
+        <value>已完成</value>
+    </data>
+    <data name="ConfigNeedStartGenshin" xml:space="preserve">
+        <value>请打开 原神 后继续操作</value>
+    </data>
+    <data name="DownloadLink" xml:space="preserve">
+        <value>下载地址: {0}</value>
+    </data>
+    <data name="GameProcessExit" xml:space="preserve">
+        <value>游戏进程异常退出</value>
+    </data>
+    <data name="GameLoading" xml:space="preserve">
+        <value>原神正在启动 ({0})</value>
+    </data>
+    <data name="UploadError" xml:space="preserve">
+        <value>正在上报错误信息...</value>
+    </data>
+    <data name="PressKeyToExit" xml:space="preserve">
+        <value>按任意键退出</value>
+    </data>
+    <data name="GenshinIsRunning" xml:space="preserve">
+        <value>原神正在运行，请关闭后重试 ({0})</value>
+    </data>
+    <data name="AnotherInstance" xml:space="preserve">
+        <value>另一个实例正在运行，请关闭后重试</value>
+    </data>
+    <data name="UpdateNewVersion" xml:space="preserve">
+        <value>有可用更新: {0} =&gt; {1}</value>
+    </data>
+    <data name="UpdateDescription" xml:space="preserve">
+        <value>更新内容: 
+{0}</value>
+    </data>
+    <data name="UpdateDownloading" xml:space="preserve">
+        <value>正在下载更新包...</value>
+    </data>
+    <data name="AppBanner" xml:space="preserve">
+        <value>YaeAchievement - 原神成就导出工具 ({0})</value>
+    </data>
+    <data name="UsePreviousData" xml:space="preserve">
+        <value>要使用上一次获取到的成就数据吗？</value>
+    </data>
+    <data name="NetworkError" xml:space="preserve">
+        <value>网络错误: {0}</value>
+    </data>
+    <data name="VcRuntimeDownload" xml:space="preserve">
+        <value>正在下载 Visual C++ Redistributable...</value>
+    </data>
+    <data name="VcRuntimeInstalling" xml:space="preserve">
+        <value>正在安装 Visual C++ Redistributable...</value>
+    </data>
+    <data name="ExceptionNetwork" xml:space="preserve">
+        <value>网络错误，请检查网络后重试 ({0}: {1})</value>
+    </data>
+    <data name="GenshinHashError" xml:space="preserve">
+        <value>当前适配版本不匹配，请更新原神至最新版本后重试或等待工具更新。</value>
+    </data>
+    <data name="NoWritePermission" xml:space="preserve">
+        <value>无法写入文件，请更换软件所在目录后重试</value>
+    </data>
+    <data name="ExportToTauriFail" xml:space="preserve">
+        <value>启动 Teyvat Guide 或更新 Teyvat Guide 至最新版本后重试</value>
+    </data>
+    <data name="ExportToTauriSuccess" xml:space="preserve">
+        <value>在 Teyvat Guide 进行下一步操作</value>
+    </data>
+    <data name="WaitMetadataUpdate" xml:space="preserve">
+        <value>当前元数据版本不匹配，请更新原神至最新版本或等待元数据更新后重试。</value>
+    </data>
+    <data name="UpdateChecking" xml:space="preserve">
+        <value>正在检查更新...</value>
+    </data>
+    <data name="CommonYes" xml:space="preserve">
+        <value>是</value>
+    </data>
+    <data name="CommonNo" xml:space="preserve">
+        <value>否</value>
+    </data>
+    <data name="ExportTargetCocogoat" xml:space="preserve">
+        <value>椰羊 (https://cocogoat.work/achievement)</value>
+    </data>
+    <data name="ExportTargetHuTao" xml:space="preserve">
+        <value>Snap Hutao</value>
+    </data>
+    <data name="ExportTargetPaimon" xml:space="preserve">
+        <value>Paimon.moe</value>
+    </data>
+    <data name="ExportTargetSeelie" xml:space="preserve">
+        <value>Seelie.me</value>
+    </data>
+    <data name="ExportTargetCsv" xml:space="preserve">
+        <value>表格文件</value>
+    </data>
+    <data name="ExportTargetXunkong" xml:space="preserve">
+        <value>寻空</value>
+    </data>
+    <data name="ExportTargetUIAFJson" xml:space="preserve">
+        <value>UIAF JSON 文件</value>
+    </data>
+    <data name="ExportTargetTeyvatGuide" xml:space="preserve">
+        <value>Teyvat Guide</value>
+    </data>
+    <data name="ExportTargetWxApp1" xml:space="preserve">
+        <value>原魔工具箱</value>
+    </data>
+    <data name="SelectionPromptCompatChooseOne" xml:space="preserve">
+        <value>选择一个选项：</value>
+    </data>
+    <data name="SelectionPromptCompatAnsiTip" xml:space="preserve">
+        <value>键盘上下键移动光标，键盘回车键选择</value>
+    </data>
+    <data name="SelectionPromptCompatNonAnsiTip" xml:space="preserve">
+        <value>输入数字并回车以选择选项</value>
+    </data>
+    <data name="SelectionPromptCompatInvalidChoice" xml:space="preserve">
+        <value>请输入 0 到 {0} 之间的数字</value>
+    </data>
+    <data name="StreamReadDataFail" xml:space="preserve">
+        <value>读取数据时发生错误，请重试</value>
+    </data>
+    <data name="UpdateFileShareViolation" xml:space="preserve">
+        <value>文件 {0} 被其它程序占用，请 重启电脑 或 解除文件占用 后重试。</value>
+    </data>
+    <data name="LoadLibraryFail" xml:space="preserve">
+        <value>加载失败，请重试（{0} {1} {2}）</value>
+    </data>
+</root>

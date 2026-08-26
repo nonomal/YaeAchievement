@@ -1,0 +1,5 @@
+﻿<Solution>
+  <Project Path="YaeAchievement.SourceGeneration/YaeAchievement.SourceGeneration.csproj" />
+  <Project Path="YaeAchievementLib\YaeAchievementLib.csproj" />
+  <Project Path="YaeAchievement\YaeAchievement.csproj" />
+</Solution>

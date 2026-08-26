@@ -1,0 +1,30 @@
+﻿// kernel32
+GlobalLock
+OpenProcess
+GetStdHandle
+GlobalUnlock
+ResumeThread
+Module32Next
+Module32First
+CreateProcess
+LoadLibraryEx
+VirtualFreeEx
+VirtualAllocEx
+GetProcAddress
+GetConsoleMode
+SetConsoleMode
+TerminateProcess
+CreateRemoteThread
+WriteProcessMemory
+WaitForSingleObject
+GetCurrentConsoleFontEx
+CreateToolhelp32Snapshot
+
+// psapi
+GetModuleFileNameEx
+
+// user32
+OpenClipboard
+CloseClipboard
+EmptyClipboard
+SetClipboardData

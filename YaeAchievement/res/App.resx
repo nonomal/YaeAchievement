@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="ExportToCocogoatFail" xml:space="preserve">
+        <value>Fail, please contact developer to get help information (CG_{0})</value>
+    </data>
+    <data name="AllAchievement" xml:space="preserve">
+        <value>all achievement</value>
+    </data>
+    <data name="ExportChoose" xml:space="preserve">
+        <value>Export to:</value>
+    </data>
+    <data name="ExportToCocogoatSuccess" xml:space="preserve">
+        <value>Successfully exported to cocogoat.</value>
+    </data>
+    <data name="ExportToWxApp1Success" xml:space="preserve">
+        <value>{0}</value>
+    </data>
+    <data name="ExportToSnapGenshinSuccess" xml:space="preserve">
+        <value>Successfully exported to Snap Hutao.</value>
+    </data>
+    <data name="ExportToSnapGenshinNeedUpdate" xml:space="preserve">
+        <value>Please update Snap Hutao and retry.</value>
+    </data>
+    <data name="ExportToFileSuccess" xml:space="preserve">
+        <value>Successfully exported to {0}</value>
+    </data>
+    <data name="ExportToXunkongSuccess" xml:space="preserve">
+        <value>Successfully exported to xunkong.</value>
+    </data>
+    <data name="ExportToXunkongNeedUpdate" xml:space="preserve">
+        <value>Please update xunkong and retry.</value>
+    </data>
+    <data name="StatusInvalid" xml:space="preserve">
+        <value>Invalid</value>
+    </data>
+    <data name="StatusRewardTaken" xml:space="preserve">
+        <value>Finished</value>
+    </data>
+    <data name="StatusUnfinished" xml:space="preserve">
+        <value>Unfinished</value>
+    </data>
+    <data name="StatusFinished" xml:space="preserve">
+        <value>Reward not taken</value>
+    </data>
+    <data name="ConfigNeedStartGenshin" xml:space="preserve">
+        <value>Please launch GenshinImpact to continue.</value>
+    </data>
+    <data name="DownloadLink" xml:space="preserve">
+        <value>Download: {0}</value>
+    </data>
+    <data name="GameProcessExit" xml:space="preserve">
+        <value>Game exited.</value>
+    </data>
+    <data name="GameLoading" xml:space="preserve">
+        <value>Game process start ({0})</value>
+    </data>
+    <data name="UploadError" xml:space="preserve">
+        <value>Upload error to appcenter...</value>
+    </data>
+    <data name="PressKeyToExit" xml:space="preserve">
+        <value>Press any key to exit.</value>
+    </data>
+    <data name="GenshinIsRunning" xml:space="preserve">
+        <value>Please close game before run this application. ({0})</value>
+    </data>
+    <data name="AnotherInstance" xml:space="preserve">
+        <value>Please close another instance.</value>
+    </data>
+    <data name="UpdateNewVersion" xml:space="preserve">
+        <value>Has update: {0} =&gt; {1}</value>
+    </data>
+    <data name="UpdateDescription" xml:space="preserve">
+        <value>Description: 
+{0}</value>
+    </data>
+    <data name="UpdateDownloading" xml:space="preserve">
+        <value>Downloading update package...</value>
+    </data>
+    <data name="AppBanner" xml:space="preserve">
+        <value>YaeAchievement ({0})</value>
+    </data>
+    <data name="UsePreviousData" xml:space="preserve">
+        <value>Use previous fetched data?</value>
+    </data>
+    <data name="NetworkError" xml:space="preserve">
+        <value>Network error:</value>
+    </data>
+    <data name="VcRuntimeDownload" xml:space="preserve">
+        <value>Downloading Visual C++ Redistributable...</value>
+    </data>
+    <data name="VcRuntimeInstalling" xml:space="preserve">
+        <value>Installing Visual C++ Redistributable...</value>
+    </data>
+    <data name="ExceptionNetwork" xml:space="preserve">
+        <value>Network error ({0}: {1})</value>
+    </data>
+    <data name="GenshinHashError" xml:space="preserve">
+        <value>Please update genshin and retry.</value>
+    </data>
+    <data name="NoWritePermission" xml:space="preserve">
+        <value>No write permission on {0}.</value>
+    </data>
+    <data name="ExportToTauriSuccess" xml:space="preserve">
+        <value>Successfully exported to Teyvat Guide.</value>
+    </data>
+    <data name="ExportToTauriFail" xml:space="preserve">
+        <value>Please launch/update Teyvat Guide and retry.</value>
+    </data>
+    <data name="WaitMetadataUpdate" xml:space="preserve">
+        <value>Please update game and retry.</value>
+    </data>
+    <data name="UpdateChecking" xml:space="preserve">
+        <value>Checking update...</value>
+    </data>
+    <data name="CommonYes" xml:space="preserve">
+        <value>Yes</value>
+    </data>
+    <data name="CommonNo" xml:space="preserve">
+        <value>No</value>
+    </data>
+    <data name="ExportTargetCocogoat" xml:space="preserve">
+        <value>Cocogoat (https://cocogoat.work/achievement)</value>
+    </data>
+    <data name="ExportTargetHuTao" xml:space="preserve">
+        <value>Snap.HuTao</value>
+    </data>
+    <data name="ExportTargetPaimon" xml:space="preserve">
+        <value>Paimon.moe</value>
+    </data>
+    <data name="ExportTargetSeelie" xml:space="preserve">
+        <value>Seelie.me</value>
+    </data>
+    <data name="ExportTargetCsv" xml:space="preserve">
+        <value>Csv file</value>
+    </data>
+    <data name="ExportTargetXunkong" xml:space="preserve">
+        <value>Xunkong</value>
+    </data>
+    <data name="ExportTargetTeyvatGuide" xml:space="preserve">
+        <value>Teyvat Guide</value>
+    </data>
+    <data name="ExportTargetUIAFJson" xml:space="preserve">
+        <value>UIAF JSON File</value>
+    </data>
+    <data name="ExportTargetWxApp1" xml:space="preserve">
+        <value />
+    </data>
+    <data name="SelectionPromptCompatChooseOne" xml:space="preserve">
+        <value>Choose an option:</value>
+    </data>
+    <data name="SelectionPromptCompatAnsiTip" xml:space="preserve">
+        <value>Use the keyboard arrow keys to move the cursor and the Enter key to select</value>
+    </data>
+    <data name="SelectionPromptCompatNonAnsiTip" xml:space="preserve">
+        <value>Type a number and press Enter to select</value>
+    </data>
+    <data name="SelectionPromptCompatInvalidChoice" xml:space="preserve">
+        <value>Please enter a number between 0 and {0}</value>
+    </data>
+    <data name="StreamReadDataFail" xml:space="preserve">
+        <value>An error occurred while reading the data. Please try again.</value>
+    </data>
+    <data name="UpdateFileShareViolation" xml:space="preserve">
+        <value>The process cannot access the file '{0}' because it is being used by another process. Please restart your computer and try again.</value>
+    </data>
+    <data name="LoadLibraryFail" xml:space="preserve">
+        <value>Load failed. Please retry. ({0} {1} {2})</value>
+    </data>
+</root>
